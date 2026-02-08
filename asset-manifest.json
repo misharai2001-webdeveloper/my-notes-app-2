@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-notes-app-2/static/css/main.6a5d3308.css",
+    "main.js": "/my-notes-app-2/static/js/main.d70ac847.js",
+    "static/media/notes-pic.png": "/my-notes-app-2/static/media/notes-pic.ff50d90974ce164b7a0f.png",
+    "index.html": "/my-notes-app-2/index.html",
+    "main.6a5d3308.css.map": "/my-notes-app-2/static/css/main.6a5d3308.css.map",
+    "main.d70ac847.js.map": "/my-notes-app-2/static/js/main.d70ac847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5d3308.css",
+    "static/js/main.d70ac847.js"
+  ]
+}
